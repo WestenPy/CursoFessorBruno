@@ -1,0 +1,3 @@
+﻿  CBFAula04.cpp
+H:\C++\CursoProfBrunoVS\CBFAula04\CBFAula04.cpp(12,23): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+  CBFAula04.vcxproj -> H:\C++\CursoProfBrunoVS\CBFAula04\Debug\CBFAula04.exe
